@@ -1,0 +1,10 @@
+-cp src
+-main Main
+
+--each
+
+-neko bin/intrange.n
+
+--next
+
+-js bin/intrange.js

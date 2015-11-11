@@ -1,0 +1,14 @@
+{
+  "name": "IntRange",
+  "license": "MIT",
+  "classPath": "src",
+  "tags": ["uhu", "uhx", "macro", "int", "sugar", "range"],
+  "description": "An explorational Haxe build macro which extends Int ranges in Haxe",
+  "contributors": ["skial"],
+  "releasenote": "Initial Release",
+  "version": "0.0.1-alpha",
+  "url": "https://github.com/skial/int-range",
+  "dependencies": {
+	"klas": ""
+  }
+}
